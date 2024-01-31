@@ -8,9 +8,31 @@ html {
     background-color: rgb(9, 156, 197);
 }
 body {
-    font-family: "public sans", sans-serif;
+    /* font-family: "public sans", sans-serif;
     font-size: 1.2rem;
-    min-height: 100%;
+    min-height: 100%; */
+    font-family: "public sans", sans-serif;
+font-size: 1.2rem;
+min-height: 100%;
+background-image: url("imagenes-1/fondo-m.jpg");
+backdrop-filter: blur(10px);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover; 
+background-attachment: fixed;
+color: blue;
+ }
+ biker{
+    border-radius: 0%;
+ }
+.button{
+    color: white;
+    background-color:black;
+    padding: 10px;
+font-size: 15px;
+border: 1px solid black;
+border-radius: 40px;
+width: 200px;
 }
 .grid-conteiner > * {
     box-shadow: -1px 1px 7px 0px rgba(151, 6, 6, 0.75);
