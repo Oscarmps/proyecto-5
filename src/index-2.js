@@ -14,7 +14,7 @@ const biker = [
 
 const render = () => {
     for (let i=0; i<biker.length; i++) {
-        const divElement = document.createElement('div');
+        const divElement = document.createElement('div'); 
         const titleElement = document.createElement('h2');
         const imgElement = document.createElement('img');
         const buttonElement = document.createElement('button');

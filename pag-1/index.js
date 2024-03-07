@@ -3,7 +3,7 @@ function ir(){
     var u="oscarmezaperezxd@gmail.com";
     if(document.form.password.value==c && document.form.login.value==u){
      alert("Bienvenidos BIKERS")
-    location.href="index-2.html";
+    location.href="http://127.0.0.1:5500/src/index-2.html";
     
     } 
     else{

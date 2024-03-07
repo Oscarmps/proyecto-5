@@ -21,14 +21,11 @@ background-position: center;
 background-size: cover; 
 background-attachment: fixed;
 color: blue;
- }
- biker{
-    border-radius: 0%;
- }
-.button{
-    color: white;
-    background-color:black;
-    padding: 10px;
+}
+.button {
+color: white;
+background-color:black;
+padding: 10px;
 font-size: 15px;
 border: 1px solid black;
 border-radius: 40px;
@@ -43,9 +40,7 @@ width: 200px;
 .header {
     grid-area: header;
     background-color:rgb(255, 7, 7);
-    color: rgb(219, 223, 227);
-;
-
+    color: rgb(219, 223, 227)
  }
 
 .sidebar {
